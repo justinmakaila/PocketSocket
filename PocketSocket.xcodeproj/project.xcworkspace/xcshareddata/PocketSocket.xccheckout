@@ -10,29 +10,29 @@
 	<string>PocketSocket</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>DBD22213-8C18-484A-B975-94ACBFBC348D</key>
-		<string>ssh://github.com/zwopple/PocketSocket.git</string>
+		<key>3692ABDCB445527429496D19963AFF94CAB1E068</key>
+		<string>https://github.com/justinmakaila/PocketSocket.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>PocketSocket.xcodeproj/project.xcworkspace</string>
+	<string>PocketSocket.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>DBD22213-8C18-484A-B975-94ACBFBC348D</key>
+		<key>3692ABDCB445527429496D19963AFF94CAB1E068</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/zwopple/PocketSocket.git</string>
+	<string>https://github.com/justinmakaila/PocketSocket.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>DBD22213-8C18-484A-B975-94ACBFBC348D</string>
+	<string>3692ABDCB445527429496D19963AFF94CAB1E068</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>DBD22213-8C18-484A-B975-94ACBFBC348D</string>
+			<string>3692ABDCB445527429496D19963AFF94CAB1E068</string>
 			<key>IDESourceControlWCCName</key>
 			<string>PocketSocket</string>
 		</dict>
